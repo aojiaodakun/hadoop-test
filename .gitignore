@@ -1,6 +1,24 @@
-.DS_Store
+# SVN
+.svn
+.revision
+
+# Eclipse
+.metadata
+.classpath
+.eclipse/
 .idea/
+.project
+.revision/
+.settings/
+.externalToolBuilders/
+local.properties
+.recommenders
+*.launch
+build/
+target/
+out/
+
+# Intellij
+*.ipr
 *.iws
 *.iml
-*.ipr
-.mvn
