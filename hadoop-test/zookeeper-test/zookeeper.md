@@ -1,5 +1,5 @@
-###hadoop各种组件的简单API测试
-####一、zk伪集群搭建(单机启3个应用)
+### hadoop各种组件的简单API测试
+#### 一、zk伪集群搭建(单机启3个应用)
 #####1、zk官网下载linux版本：zookeeper-3.4.14.tar.gz
 #####2、解压：tar -zxvf zookeeper-3.4.14.tar.gz，产生zookeeper-3.4.14目录
 #####3、改名：mv zookeeper-3.4.14 zookeeper2181
