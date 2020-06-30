@@ -14,6 +14,7 @@
     cd zookeeper2181/conf
     cp zoo_sample.cfg zoo.cfg
     vi zoo.cfg
+        数据目录
         dataDir=/opt/hadoop/zookeeper/zookeeper2181/data
         2287端口：zk通讯端口。3387端口：leader选举端口
         server.1=192.168.44.128:2287:3387
